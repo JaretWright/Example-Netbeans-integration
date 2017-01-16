@@ -16,6 +16,8 @@ public class GitHubIntegration {
      */
     public static void main(String[] args) {
         System.out.println("Wahoo - I have created a repository in GitHub");
+        
+        System.out.println("Here is a change to the repository");
     }
     
 }
